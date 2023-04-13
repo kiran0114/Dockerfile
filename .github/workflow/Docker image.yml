@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags:chinnudied/basicdemo:latest
+          tags: chinnudied/basicdemo:latest
